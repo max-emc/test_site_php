@@ -1,0 +1,19 @@
+#BarreOutils {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 10px;
+}
+
+#BarreOutils button {
+	background: black;
+	border: none;
+	width: 10vh;
+	height: 10vh;
+	border-radius: 50%;
+	margin: 2px;
+}
+
+#BarreOutils i {
+	color: white;
+}

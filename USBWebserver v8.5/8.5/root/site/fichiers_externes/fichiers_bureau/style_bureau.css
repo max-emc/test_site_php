@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+:root {
+  --top-tasse: 43%;
+  --left-tasse: 8%;
+  --width-tasse: 20vh;
+  --width-post-it: 120px;
+  --width-section: 30%;
+  --height-section: 75%;
+  --top-section: 12vh;
+  --width-tablette: 25%;
+  --height-tablette: 35vh;
+  --animation-0: translate(0, 0) rotate(0deg);
+  --animation-50: translate(-33%, -10%) rotate(-2deg);
+  --animation-100: translate(-100%, -3%) rotate(-6deg);
+}
+
+body {
+  background: url("../../medias/bureau/bureau.jpg") center/cover;
+  overflow: hidden;
+}
+
+.tasse {
+  top: var(--top-tasse);
+  left: var(--left-tasse);
+  transform: translate(-50%, -50%);
+  width: var(--width-tasse);
+  height: var(--width-tasse);
+  position: absolute;
+  border-radius: 50%;
+  background: red;
+  box-shadow: 3px -5px 6px black;
+}
+
+.tasse::after {
+  content: "";
+  width: 86%;
+  height: 86%;
+  position: absolute;
+  border-radius: 50%;
+  background: url("../../medias/bureau/cafe.png") center/cover;
+  top: 7%;
+  left: 7%;
+  box-shadow: 4px -3px 2px #A93226 inset;
+}
+
+.tasse::before {
+  content: "";
+  width: 30px;
+  height: 20px;
+  background: red;
+  position: absolute;
+  border-top-right-radius: 40%;
+  border-top-left-radius: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 4px -5px 6px black;
+}
+
+.post-it {
+  width: var(--width-post-it);
+  height: var(--width-post-it);
+  box-shadow: 5px 3px 5px black;
+  transform-origin: bottom;
+  position: absolute;
+  top: 5%;
+}
+
+.post-it img {
+  width: 40%;
+  margin: 5%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+section {
+  width: var(--width-section);
+  height: var(--height-section);
+  background-color: white;
+  box-shadow: 2px -2px 6px black;
+  margin: 10px;
+  position: absolute;
+  right: 2%;
+  top: var(--top-section);
+  padding: 2%;
+}
+
+section img {
+  width: 10%;
+  position: absolute;
+  bottom: 2%;
+  right: 3%;
+}
+
+.tablette {
+  width: var(--width-tablette);
+  height: var(--height-tablette);
+  background: black;
+  position: absolute;
+  bottom: 50px;
+  border-radius: 5%;
+}
+
+.bloc-note {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    background-color: black;
+    box-shadow: 3px 3px 5px grey;
+    left: 230px;
+    transform: translateY(-50%);
+    z-index: 100;
+}
+
+.sources {
+    width: 100%;
+    height: 260px;
+    background-color: #FFFAFA;
+    margin-top: 20px;
+    padding-top: 10px;
+    position: absolute;
+    box-shadow: 5px 3px 5px grey;
+}
+
+.sources div {
+    width: 100%;
+    font-family: 'Great Vibes', cursive;
+    font-size: 1.5em;
+    padding-left: 12px;
+}
+
+.arriere {
+    width: 100%;
+    height: 20px;
+    position: absolute;
+    box-shadow: 1px 1px 12px rgba(255, 255, 255, 0.8) inset,
+                3px 3px 5px rgba(48, 48, 48, 0.3);
+}
+.couverture {
+    width: 100%;
+    height: 280px;
+    margin-top: 20px;
+    background-color: black;
+    position: absolute;
+    transform-origin: top;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.8) inset;
+}
+
+@keyframes pageSuivante {
+  0% {
+    transform: var(--animation-0);
+  }
+  50% {
+    transform: var(--animation-50);
+  }
+  100% {
+    transform: var(--animation-100);
+  }
+}
+
+@keyframes pagePrecedente {
+  0% {
+    transform: var(--animation-100);
+  }
+  50% {
+    transform: var(--animation-50);
+  }
+  100% {
+    transform: var(--animation-0);
+  }
+}
+
+@keyframes ouvrir-bloc-note {
+    0% {
+        transform: rotateX(0);
+    }
+    100% {
+        transform: rotateX(180deg);
+    }
+}
+
+@keyframes fermer-bloc-note {
+    0% {
+        transform: rotateX(180deg);
+    }
+    100% {
+        transform: rotateX(0);
+    }
+}
+
+@keyframes prendre-bloc-note {
+    0% {
+        transform: translate(0, -50%) rotate(0deg);
+    }
+    100% {
+        transform: translate(320px, 100px) rotate(-5deg);
+    }
+}
+
+@keyframes poser-bloc-note {
+    0% {
+        transform: translate(320px, 100px) rotate(-5deg);
+    }
+    100% {
+        transform: translate(0, -50%) rotate(0deg);
+    }
+}

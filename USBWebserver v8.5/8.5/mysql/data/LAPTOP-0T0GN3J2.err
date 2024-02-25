@@ -1,0 +1,1295 @@
+240210 15:53:30 [Note] Plugin 'FEDERATED' is disabled.
+240210 15:53:30 InnoDB: The InnoDB memory heap is disabled
+240210 15:53:30 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240210 15:53:30 InnoDB: Compressed tables use zlib 1.2.3
+240210 15:53:30 InnoDB: Initializing buffer pool, size = 128.0M
+240210 15:53:30 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file C:\Users\33770\Desktop\lycee\test_ruby\USBWebserver v8.5\8.5\mysql\data\ibdata1 did not exist:
+InnoDB: a new database to be created!
+240210 15:53:30  InnoDB: Setting file C:\Users\33770\Desktop\lycee\test_ruby\USBWebserver v8.5\8.5\mysql\data\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+240210 15:53:30  InnoDB: Log file C:\Users\33770\Desktop\lycee\test_ruby\USBWebserver v8.5\8.5\mysql\data\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file C:\Users\33770\Desktop\lycee\test_ruby\USBWebserver v8.5\8.5\mysql\data\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+240210 15:53:30  InnoDB: Log file C:\Users\33770\Desktop\lycee\test_ruby\USBWebserver v8.5\8.5\mysql\data\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file C:\Users\33770\Desktop\lycee\test_ruby\USBWebserver v8.5\8.5\mysql\data\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+240210 15:53:30  InnoDB: Waiting for the background threads to start
+240210 15:53:31 InnoDB: 1.1.8 started; log sequence number 0
+240210 15:53:48 [Note] Plugin 'FEDERATED' is disabled.
+240210 15:53:48 InnoDB: The InnoDB memory heap is disabled
+240210 15:53:48 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240210 15:53:48 InnoDB: Compressed tables use zlib 1.2.3
+240210 15:53:48 InnoDB: Initializing buffer pool, size = 128.0M
+240210 15:53:48 InnoDB: Completed initialization of buffer pool
+240210 15:53:48 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240210 15:53:48  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240210 15:53:48  InnoDB: Waiting for the background threads to start
+240210 15:53:49 InnoDB: 1.1.8 started; log sequence number 1595675
+240210 15:53:54 [Note] Plugin 'FEDERATED' is disabled.
+240210 15:53:54 InnoDB: The InnoDB memory heap is disabled
+240210 15:53:54 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240210 15:53:54 InnoDB: Compressed tables use zlib 1.2.3
+240210 15:53:54 InnoDB: Initializing buffer pool, size = 128.0M
+240210 15:53:54 InnoDB: Completed initialization of buffer pool
+240210 15:53:54 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240210 15:53:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240210 15:53:54  InnoDB: Waiting for the background threads to start
+240210 15:53:55 InnoDB: 1.1.8 started; log sequence number 1595675
+240210 16:01:33 [Note] Plugin 'FEDERATED' is disabled.
+240210 16:01:33 InnoDB: The InnoDB memory heap is disabled
+240210 16:01:33 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240210 16:01:33 InnoDB: Compressed tables use zlib 1.2.3
+240210 16:01:33 InnoDB: Initializing buffer pool, size = 128.0M
+240210 16:01:33 InnoDB: Completed initialization of buffer pool
+240210 16:01:33 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240210 16:01:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240210 16:01:33  InnoDB: Waiting for the background threads to start
+240210 16:01:34 InnoDB: 1.1.8 started; log sequence number 1595675
+240210 17:29:32 [Note] Plugin 'FEDERATED' is disabled.
+240210 17:29:32 InnoDB: The InnoDB memory heap is disabled
+240210 17:29:32 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240210 17:29:32 InnoDB: Compressed tables use zlib 1.2.3
+240210 17:29:32 InnoDB: Initializing buffer pool, size = 128.0M
+240210 17:29:32 InnoDB: Completed initialization of buffer pool
+240210 17:29:32 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240210 17:29:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240210 17:29:32  InnoDB: Waiting for the background threads to start
+240210 17:29:33 InnoDB: 1.1.8 started; log sequence number 1595675
+240210 17:29:56 [Note] Plugin 'FEDERATED' is disabled.
+240210 17:29:56 InnoDB: The InnoDB memory heap is disabled
+240210 17:29:56 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240210 17:29:56 InnoDB: Compressed tables use zlib 1.2.3
+240210 17:29:56 InnoDB: Initializing buffer pool, size = 128.0M
+240210 17:29:56 InnoDB: Completed initialization of buffer pool
+240210 17:29:56 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240210 17:29:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240210 17:29:56  InnoDB: Waiting for the background threads to start
+240210 17:29:57 InnoDB: 1.1.8 started; log sequence number 1595675
+240210 17:31:37 [Note] Plugin 'FEDERATED' is disabled.
+240210 17:31:37 InnoDB: The InnoDB memory heap is disabled
+240210 17:31:37 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240210 17:31:37 InnoDB: Compressed tables use zlib 1.2.3
+240210 17:31:37 InnoDB: Initializing buffer pool, size = 128.0M
+240210 17:31:37 InnoDB: Completed initialization of buffer pool
+240210 17:31:37 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240210 17:31:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240210 17:31:37  InnoDB: Waiting for the background threads to start
+240210 17:31:38 InnoDB: 1.1.8 started; log sequence number 1595675
+240210 17:31:59 [Note] Plugin 'FEDERATED' is disabled.
+240210 17:31:59 InnoDB: The InnoDB memory heap is disabled
+240210 17:31:59 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240210 17:31:59 InnoDB: Compressed tables use zlib 1.2.3
+240210 17:31:59 InnoDB: Initializing buffer pool, size = 128.0M
+240210 17:31:59 InnoDB: Completed initialization of buffer pool
+240210 17:31:59 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240210 17:31:59  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240210 17:31:59  InnoDB: Waiting for the background threads to start
+240210 17:32:00 InnoDB: 1.1.8 started; log sequence number 1595675
+240211 12:18:17 [Note] Plugin 'FEDERATED' is disabled.
+240211 12:18:17 InnoDB: The InnoDB memory heap is disabled
+240211 12:18:17 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240211 12:18:17 InnoDB: Compressed tables use zlib 1.2.3
+240211 12:18:17 InnoDB: Initializing buffer pool, size = 128.0M
+240211 12:18:17 InnoDB: Completed initialization of buffer pool
+240211 12:18:17 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240211 12:18:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240211 12:18:17  InnoDB: Waiting for the background threads to start
+240211 12:18:18 InnoDB: 1.1.8 started; log sequence number 1628359
+240211 12:19:47 [Note] Plugin 'FEDERATED' is disabled.
+240211 12:19:47 InnoDB: The InnoDB memory heap is disabled
+240211 12:19:47 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240211 12:19:47 InnoDB: Compressed tables use zlib 1.2.3
+240211 12:19:47 InnoDB: Initializing buffer pool, size = 128.0M
+240211 12:19:47 InnoDB: Completed initialization of buffer pool
+240211 12:19:47 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240211 12:19:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240211 12:19:47  InnoDB: Waiting for the background threads to start
+240211 12:19:48 InnoDB: 1.1.8 started; log sequence number 1628359
+240211 12:39:38 [Note] Plugin 'FEDERATED' is disabled.
+240211 12:39:38 InnoDB: The InnoDB memory heap is disabled
+240211 12:39:38 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240211 12:39:38 InnoDB: Compressed tables use zlib 1.2.3
+240211 12:39:38 InnoDB: Initializing buffer pool, size = 128.0M
+240211 12:39:38 InnoDB: Completed initialization of buffer pool
+240211 12:39:38 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240211 12:39:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240211 12:39:38  InnoDB: Waiting for the background threads to start
+240211 12:39:39 InnoDB: 1.1.8 started; log sequence number 1628369
+240211 12:39:39 [Note] Event Scheduler: Loaded 0 events
+240211 12:39:39 [Note] C:\Users\33770\Desktop\lycee\test_ruby\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+240211 16:01:15 [Note] Plugin 'FEDERATED' is disabled.
+240211 16:01:15 InnoDB: The InnoDB memory heap is disabled
+240211 16:01:15 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240211 16:01:15 InnoDB: Compressed tables use zlib 1.2.3
+240211 16:01:15 InnoDB: Initializing buffer pool, size = 128.0M
+240211 16:01:15 InnoDB: Completed initialization of buffer pool
+240211 16:01:15 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240211 16:01:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240211 16:01:15  InnoDB: Waiting for the background threads to start
+240211 16:01:16 InnoDB: 1.1.8 started; log sequence number 1628379
+240212 15:39:56 [Note] Plugin 'FEDERATED' is disabled.
+240212 15:39:56 InnoDB: The InnoDB memory heap is disabled
+240212 15:39:56 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240212 15:39:56 InnoDB: Compressed tables use zlib 1.2.3
+240212 15:39:56 InnoDB: Initializing buffer pool, size = 128.0M
+240212 15:39:56 InnoDB: Completed initialization of buffer pool
+240212 15:39:56 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240212 15:39:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240212 15:39:56  InnoDB: Waiting for the background threads to start
+240212 15:39:57 InnoDB: 1.1.8 started; log sequence number 1631323
+240212 17:55:23 [Note] Plugin 'FEDERATED' is disabled.
+240212 17:55:23 InnoDB: The InnoDB memory heap is disabled
+240212 17:55:23 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240212 17:55:23 InnoDB: Compressed tables use zlib 1.2.3
+240212 17:55:23 InnoDB: Initializing buffer pool, size = 128.0M
+240212 17:55:23 InnoDB: Completed initialization of buffer pool
+240212 17:55:23 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240212 17:55:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240212 17:55:23  InnoDB: Waiting for the background threads to start
+240212 17:55:24 InnoDB: 1.1.8 started; log sequence number 1631333
+240212 18:16:53 [Note] Plugin 'FEDERATED' is disabled.
+240212 18:16:53 InnoDB: The InnoDB memory heap is disabled
+240212 18:16:53 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240212 18:16:53 InnoDB: Compressed tables use zlib 1.2.3
+240212 18:16:53 InnoDB: Initializing buffer pool, size = 128.0M
+240212 18:16:53 InnoDB: Completed initialization of buffer pool
+240212 18:16:53 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240212 18:16:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240212 18:16:53  InnoDB: Waiting for the background threads to start
+240212 18:16:54 InnoDB: 1.1.8 started; log sequence number 1631343
+240213 14:14:01 [Note] Plugin 'FEDERATED' is disabled.
+240213 14:14:01 InnoDB: The InnoDB memory heap is disabled
+240213 14:14:01 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240213 14:14:01 InnoDB: Compressed tables use zlib 1.2.3
+240213 14:14:01 InnoDB: Initializing buffer pool, size = 128.0M
+240213 14:14:01 InnoDB: Completed initialization of buffer pool
+240213 14:14:01 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240213 14:14:01  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240213 14:14:01  InnoDB: Waiting for the background threads to start
+240213 14:14:02 InnoDB: 1.1.8 started; log sequence number 1631353
+240213 14:14:54 [Note] Plugin 'FEDERATED' is disabled.
+240213 14:14:54 InnoDB: The InnoDB memory heap is disabled
+240213 14:14:54 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240213 14:14:54 InnoDB: Compressed tables use zlib 1.2.3
+240213 14:14:54 InnoDB: Initializing buffer pool, size = 128.0M
+240213 14:14:54 InnoDB: Completed initialization of buffer pool
+240213 14:14:54 InnoDB: highest supported file format is Barracuda.
+InnoDB: Log scan progressed past the checkpoint lsn 1631353
+240213 14:14:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+InnoDB: Doing recovery: scanned up to log sequence number 1631363
+240213 14:14:55  InnoDB: Waiting for the background threads to start
+240213 14:14:56 InnoDB: 1.1.8 started; log sequence number 1631363
+240213 14:15:22 [Note] Plugin 'FEDERATED' is disabled.
+240213 14:15:22 InnoDB: The InnoDB memory heap is disabled
+240213 14:15:22 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240213 14:15:22 InnoDB: Compressed tables use zlib 1.2.3
+240213 14:15:22 InnoDB: Initializing buffer pool, size = 128.0M
+240213 14:15:22 InnoDB: Completed initialization of buffer pool
+240213 14:15:22 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240213 14:15:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240213 14:15:22  InnoDB: Waiting for the background threads to start
+240213 14:15:23 InnoDB: 1.1.8 started; log sequence number 1631373
+240213 14:15:57 [Note] Plugin 'FEDERATED' is disabled.
+240213 14:15:57 InnoDB: The InnoDB memory heap is disabled
+240213 14:15:57 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240213 14:15:57 InnoDB: Compressed tables use zlib 1.2.3
+240213 14:15:57 InnoDB: Initializing buffer pool, size = 128.0M
+240213 14:15:57 InnoDB: Completed initialization of buffer pool
+240213 14:15:57  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240213 14:16:07  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240213 14:16:17  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240213 14:51:18 [Note] Plugin 'FEDERATED' is disabled.
+240213 14:51:19 InnoDB: The InnoDB memory heap is disabled
+240213 14:51:19 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240213 14:51:19 InnoDB: Compressed tables use zlib 1.2.3
+240213 14:51:19 InnoDB: Initializing buffer pool, size = 128.0M
+240213 14:51:19 InnoDB: Completed initialization of buffer pool
+240213 14:51:19 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240213 14:51:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240213 14:51:19  InnoDB: Waiting for the background threads to start
+240213 14:51:20 InnoDB: 1.1.8 started; log sequence number 1631383
+240213 15:38:54 [Note] Plugin 'FEDERATED' is disabled.
+240213 15:38:54 InnoDB: The InnoDB memory heap is disabled
+240213 15:38:54 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240213 15:38:54 InnoDB: Compressed tables use zlib 1.2.3
+240213 15:38:55 InnoDB: Initializing buffer pool, size = 128.0M
+240213 15:38:55 InnoDB: Completed initialization of buffer pool
+240213 15:38:55 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240213 15:38:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240213 15:38:55  InnoDB: Waiting for the background threads to start
+240213 15:38:56 InnoDB: 1.1.8 started; log sequence number 1631393
+240213 17:52:18 [Note] Plugin 'FEDERATED' is disabled.
+240213 17:52:18 InnoDB: The InnoDB memory heap is disabled
+240213 17:52:18 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240213 17:52:18 InnoDB: Compressed tables use zlib 1.2.3
+240213 17:52:18 InnoDB: Initializing buffer pool, size = 128.0M
+240213 17:52:18 InnoDB: Completed initialization of buffer pool
+240213 17:52:18 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240213 17:52:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240213 17:52:18  InnoDB: Waiting for the background threads to start
+240213 17:52:19 InnoDB: 1.1.8 started; log sequence number 1631403
+240213 19:18:09 [Note] Plugin 'FEDERATED' is disabled.
+240213 19:18:09 InnoDB: The InnoDB memory heap is disabled
+240213 19:18:09 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240213 19:18:09 InnoDB: Compressed tables use zlib 1.2.3
+240213 19:18:09 InnoDB: Initializing buffer pool, size = 128.0M
+240213 19:18:09 InnoDB: Completed initialization of buffer pool
+240213 19:18:09  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 16:01:36 [Note] Plugin 'FEDERATED' is disabled.
+240214 16:01:36 InnoDB: The InnoDB memory heap is disabled
+240214 16:01:36 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240214 16:01:36 InnoDB: Compressed tables use zlib 1.2.3
+240214 16:01:36 InnoDB: Initializing buffer pool, size = 128.0M
+240214 16:01:36 InnoDB: Completed initialization of buffer pool
+240214 16:01:36 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240214 16:01:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240214 16:01:37  InnoDB: Waiting for the background threads to start
+240214 16:01:38 InnoDB: 1.1.8 started; log sequence number 1659742
+240214 18:23:20 [Note] Plugin 'FEDERATED' is disabled.
+240214 18:23:20 InnoDB: The InnoDB memory heap is disabled
+240214 18:23:20 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240214 18:23:20 InnoDB: Compressed tables use zlib 1.2.3
+240214 18:23:20 InnoDB: Initializing buffer pool, size = 128.0M
+240214 18:23:20 InnoDB: Completed initialization of buffer pool
+240214 18:23:20 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240214 18:23:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240214 18:23:20  InnoDB: Waiting for the background threads to start
+240214 18:23:21 InnoDB: 1.1.8 started; log sequence number 1659752
+240214 19:01:22 [Note] Plugin 'FEDERATED' is disabled.
+240214 19:01:22 InnoDB: The InnoDB memory heap is disabled
+240214 19:01:22 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240214 19:01:22 InnoDB: Compressed tables use zlib 1.2.3
+240214 19:01:22 InnoDB: Initializing buffer pool, size = 128.0M
+240214 19:01:22 InnoDB: Completed initialization of buffer pool
+240214 19:01:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:01:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:01:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:01:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:02:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:02:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:02:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:02:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:02:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:02:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:03:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:03:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:03:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:03:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:03:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:03:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:04:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:04:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:04:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:04:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:04:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:04:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:05:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:05:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:05:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:05:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:05:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:05:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:06:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:06:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:06:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:06:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:06:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:06:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:07:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:07:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:07:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:07:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:07:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:07:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:08:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:08:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:08:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:08:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:08:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:08:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:09:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:09:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:09:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:09:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:09:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:09:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:10:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:10:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:10:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:10:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:10:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:10:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:11:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:11:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:11:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:11:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:11:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:11:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:12:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:12:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:12:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:12:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:12:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:12:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:13:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:13:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:13:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:13:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:13:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:13:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:14:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:14:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:14:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:14:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:14:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:14:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:15:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:15:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:15:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:15:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:15:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:15:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:16:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:16:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:16:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:16:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:16:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:16:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:17:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:17:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:17:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:17:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:17:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:17:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:18:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:18:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:18:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:18:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:18:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:18:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:19:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:19:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:19:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:19:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:19:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:19:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:20:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:20:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:20:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:20:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:20:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:20:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:21:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:21:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:21:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:21:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:21:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 19:21:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240214 21:50:22 [Note] Plugin 'FEDERATED' is disabled.
+240214 21:50:22 InnoDB: The InnoDB memory heap is disabled
+240214 21:50:22 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240214 21:50:22 InnoDB: Compressed tables use zlib 1.2.3
+240214 21:50:22 InnoDB: Initializing buffer pool, size = 128.0M
+240214 21:50:22 InnoDB: Completed initialization of buffer pool
+240214 21:50:22 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240214 21:50:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240214 21:50:22  InnoDB: Waiting for the background threads to start
+240214 21:50:23 InnoDB: 1.1.8 started; log sequence number 1659762
+240215 19:01:31 [Note] Plugin 'FEDERATED' is disabled.
+240215 19:01:31 InnoDB: The InnoDB memory heap is disabled
+240215 19:01:31 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240215 19:01:31 InnoDB: Compressed tables use zlib 1.2.3
+240215 19:01:31 InnoDB: Initializing buffer pool, size = 128.0M
+240215 19:01:31 InnoDB: Completed initialization of buffer pool
+240215 19:01:31 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240215 19:01:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240215 19:01:31  InnoDB: Waiting for the background threads to start
+240215 19:01:32 InnoDB: 1.1.8 started; log sequence number 1659772
+240216 13:17:39 [Note] Plugin 'FEDERATED' is disabled.
+240216 13:17:39 InnoDB: The InnoDB memory heap is disabled
+240216 13:17:39 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 13:17:39 InnoDB: Compressed tables use zlib 1.2.3
+240216 13:17:39 InnoDB: Initializing buffer pool, size = 128.0M
+240216 13:17:39 InnoDB: Completed initialization of buffer pool
+240216 13:17:39 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240216 13:17:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240216 13:17:39  InnoDB: Waiting for the background threads to start
+240216 13:17:40 InnoDB: 1.1.8 started; log sequence number 1668985
+240216 14:24:27 [Note] Plugin 'FEDERATED' is disabled.
+240216 14:24:27 InnoDB: The InnoDB memory heap is disabled
+240216 14:24:27 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 14:24:27 InnoDB: Compressed tables use zlib 1.2.3
+240216 14:24:27 InnoDB: Initializing buffer pool, size = 128.0M
+240216 14:24:27 InnoDB: Completed initialization of buffer pool
+240216 14:24:27 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240216 14:24:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240216 14:24:27  InnoDB: Waiting for the background threads to start
+240216 14:24:28 InnoDB: 1.1.8 started; log sequence number 1668995
+240216 14:35:55 [Note] Plugin 'FEDERATED' is disabled.
+240216 14:35:55 InnoDB: The InnoDB memory heap is disabled
+240216 14:35:55 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 14:35:55 InnoDB: Compressed tables use zlib 1.2.3
+240216 14:35:55 InnoDB: Initializing buffer pool, size = 128.0M
+240216 14:35:55 InnoDB: Completed initialization of buffer pool
+240216 14:35:55 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240216 14:35:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240216 14:35:55  InnoDB: Waiting for the background threads to start
+240216 14:35:56 InnoDB: 1.1.8 started; log sequence number 1669005
+240216 14:41:26 [Note] Plugin 'FEDERATED' is disabled.
+240216 14:41:26 InnoDB: The InnoDB memory heap is disabled
+240216 14:41:26 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 14:41:26 InnoDB: Compressed tables use zlib 1.2.3
+240216 14:41:26 InnoDB: Initializing buffer pool, size = 128.0M
+240216 14:41:26 InnoDB: Completed initialization of buffer pool
+240216 14:41:26 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240216 14:41:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240216 14:41:26  InnoDB: Waiting for the background threads to start
+240216 14:41:27 InnoDB: 1.1.8 started; log sequence number 1669015
+240216 15:57:35 [Note] Plugin 'FEDERATED' is disabled.
+240216 15:57:35 InnoDB: The InnoDB memory heap is disabled
+240216 15:57:35 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 15:57:35 InnoDB: Compressed tables use zlib 1.2.3
+240216 15:57:35 InnoDB: Initializing buffer pool, size = 128.0M
+240216 15:57:35 InnoDB: Completed initialization of buffer pool
+240216 15:57:35 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240216 15:57:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240216 15:57:35  InnoDB: Waiting for the background threads to start
+240216 15:57:36 InnoDB: 1.1.8 started; log sequence number 1669025
+240216 16:06:28 [Note] Plugin 'FEDERATED' is disabled.
+240216 16:06:28 InnoDB: The InnoDB memory heap is disabled
+240216 16:06:28 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 16:06:28 InnoDB: Compressed tables use zlib 1.2.3
+240216 16:06:28 InnoDB: Initializing buffer pool, size = 128.0M
+240216 16:06:28 InnoDB: Completed initialization of buffer pool
+240216 16:06:28 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240216 16:06:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240216 16:06:28  InnoDB: Waiting for the background threads to start
+240216 16:06:29 InnoDB: 1.1.8 started; log sequence number 1669035
+240216 16:11:45 [Note] Plugin 'FEDERATED' is disabled.
+240216 16:11:45 InnoDB: The InnoDB memory heap is disabled
+240216 16:11:45 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 16:11:45 InnoDB: Compressed tables use zlib 1.2.3
+240216 16:11:45 InnoDB: Initializing buffer pool, size = 128.0M
+240216 16:11:45 InnoDB: Completed initialization of buffer pool
+240216 16:11:45 InnoDB: highest supported file format is Barracuda.
+InnoDB: Log scan progressed past the checkpoint lsn 1669035
+240216 16:11:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+InnoDB: Doing recovery: scanned up to log sequence number 1669045
+240216 16:11:45  InnoDB: Waiting for the background threads to start
+240216 16:11:46 InnoDB: 1.1.8 started; log sequence number 1669045
+240216 16:12:09 [Note] Plugin 'FEDERATED' is disabled.
+240216 16:12:09 InnoDB: The InnoDB memory heap is disabled
+240216 16:12:09 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 16:12:09 InnoDB: Compressed tables use zlib 1.2.3
+240216 16:12:09 InnoDB: Initializing buffer pool, size = 128.0M
+240216 16:12:09 InnoDB: Completed initialization of buffer pool
+240216 16:12:09 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240216 16:12:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240216 16:12:09  InnoDB: Waiting for the background threads to start
+240216 16:12:10 InnoDB: 1.1.8 started; log sequence number 1669055
+240216 16:12:51 [Note] Plugin 'FEDERATED' is disabled.
+240216 16:12:51 InnoDB: The InnoDB memory heap is disabled
+240216 16:12:51 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 16:12:51 InnoDB: Compressed tables use zlib 1.2.3
+240216 16:12:51 InnoDB: Initializing buffer pool, size = 128.0M
+240216 16:12:51 InnoDB: Completed initialization of buffer pool
+240216 16:12:51 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240216 16:12:51  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240216 16:12:51  InnoDB: Waiting for the background threads to start
+240216 16:12:52 InnoDB: 1.1.8 started; log sequence number 1669055
+240216 18:29:08 [Note] Plugin 'FEDERATED' is disabled.
+240216 18:29:08 InnoDB: The InnoDB memory heap is disabled
+240216 18:29:08 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240216 18:29:08 InnoDB: Compressed tables use zlib 1.2.3
+240216 18:29:08 InnoDB: Initializing buffer pool, size = 128.0M
+240216 18:29:08 InnoDB: Completed initialization of buffer pool
+240216 18:29:08 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240216 18:29:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240216 18:29:08  InnoDB: Waiting for the background threads to start
+240216 18:29:09 InnoDB: 1.1.8 started; log sequence number 1669065
+240217 11:05:14 [Note] Plugin 'FEDERATED' is disabled.
+240217 11:05:14 InnoDB: The InnoDB memory heap is disabled
+240217 11:05:14 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240217 11:05:14 InnoDB: Compressed tables use zlib 1.2.3
+240217 11:05:14 InnoDB: Initializing buffer pool, size = 128.0M
+240217 11:05:14 InnoDB: Completed initialization of buffer pool
+240217 11:05:14 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240217 11:05:14  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240217 11:05:14  InnoDB: Waiting for the background threads to start
+240217 11:05:15 InnoDB: 1.1.8 started; log sequence number 1669075
+240217 13:20:28 [Note] Plugin 'FEDERATED' is disabled.
+240217 13:20:28 InnoDB: The InnoDB memory heap is disabled
+240217 13:20:28 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240217 13:20:28 InnoDB: Compressed tables use zlib 1.2.3
+240217 13:20:28 InnoDB: Initializing buffer pool, size = 128.0M
+240217 13:20:28 InnoDB: Completed initialization of buffer pool
+240217 13:20:28 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240217 13:20:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240217 13:20:28  InnoDB: Waiting for the background threads to start
+240217 13:20:29 InnoDB: 1.1.8 started; log sequence number 1669085
+240217 15:45:10 [Note] Plugin 'FEDERATED' is disabled.
+240217 15:45:10 InnoDB: The InnoDB memory heap is disabled
+240217 15:45:10 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240217 15:45:10 InnoDB: Compressed tables use zlib 1.2.3
+240217 15:45:10 InnoDB: Initializing buffer pool, size = 128.0M
+240217 15:45:10 InnoDB: Completed initialization of buffer pool
+240217 15:45:10 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240217 15:45:10  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240217 15:45:10  InnoDB: Waiting for the background threads to start
+240217 15:45:11 InnoDB: 1.1.8 started; log sequence number 1669095
+240217 16:08:37 [Note] Plugin 'FEDERATED' is disabled.
+240217 16:08:37 InnoDB: The InnoDB memory heap is disabled
+240217 16:08:37 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240217 16:08:37 InnoDB: Compressed tables use zlib 1.2.3
+240217 16:08:37 InnoDB: Initializing buffer pool, size = 128.0M
+240217 16:08:37 InnoDB: Completed initialization of buffer pool
+240217 16:08:37 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240217 16:08:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240217 16:08:37  InnoDB: Waiting for the background threads to start
+240217 16:08:38 InnoDB: 1.1.8 started; log sequence number 1669105
+240217 16:39:22 [Note] Plugin 'FEDERATED' is disabled.
+240217 16:39:22 InnoDB: The InnoDB memory heap is disabled
+240217 16:39:22 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240217 16:39:22 InnoDB: Compressed tables use zlib 1.2.3
+240217 16:39:22 InnoDB: Initializing buffer pool, size = 128.0M
+240217 16:39:22 InnoDB: Completed initialization of buffer pool
+240217 16:39:22 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240217 16:39:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240217 16:39:22  InnoDB: Waiting for the background threads to start
+240217 16:39:23 InnoDB: 1.1.8 started; log sequence number 1669115
+240217 17:33:52 [Note] Plugin 'FEDERATED' is disabled.
+240217 17:33:52 InnoDB: The InnoDB memory heap is disabled
+240217 17:33:52 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240217 17:33:52 InnoDB: Compressed tables use zlib 1.2.3
+240217 17:33:52 InnoDB: Initializing buffer pool, size = 128.0M
+240217 17:33:52 InnoDB: Completed initialization of buffer pool
+240217 17:33:52 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240217 17:33:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240217 17:33:52  InnoDB: Waiting for the background threads to start
+240217 17:33:53 InnoDB: 1.1.8 started; log sequence number 1681359
+240218 14:27:04 [Note] Plugin 'FEDERATED' is disabled.
+240218 14:27:04 InnoDB: The InnoDB memory heap is disabled
+240218 14:27:04 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240218 14:27:04 InnoDB: Compressed tables use zlib 1.2.3
+240218 14:27:05 InnoDB: Initializing buffer pool, size = 128.0M
+240218 14:27:05 InnoDB: Completed initialization of buffer pool
+240218 14:27:05 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240218 14:27:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240218 14:27:05  InnoDB: Waiting for the background threads to start
+240218 14:27:06 InnoDB: 1.1.8 started; log sequence number 1681369
+240218 14:30:07 [Note] Plugin 'FEDERATED' is disabled.
+240218 14:30:07 InnoDB: The InnoDB memory heap is disabled
+240218 14:30:07 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240218 14:30:07 InnoDB: Compressed tables use zlib 1.2.3
+240218 14:30:07 InnoDB: Initializing buffer pool, size = 128.0M
+240218 14:30:07 InnoDB: Completed initialization of buffer pool
+240218 14:30:07 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240218 14:30:07  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240218 14:30:08  InnoDB: Waiting for the background threads to start
+240218 14:30:09 InnoDB: 1.1.8 started; log sequence number 1681379
+240218 17:43:12 [Note] Plugin 'FEDERATED' is disabled.
+240218 17:43:12 InnoDB: The InnoDB memory heap is disabled
+240218 17:43:12 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240218 17:43:12 InnoDB: Compressed tables use zlib 1.2.3
+240218 17:43:12 InnoDB: Initializing buffer pool, size = 128.0M
+240218 17:43:12 InnoDB: Completed initialization of buffer pool
+240218 17:43:12 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240218 17:43:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240218 17:43:12  InnoDB: Waiting for the background threads to start
+240218 17:43:13 InnoDB: 1.1.8 started; log sequence number 1715948
+240218 17:43:14 [Note] Event Scheduler: Loaded 0 events
+240218 17:43:14 [Note] C:\Users\33770\Desktop\lycee\test_ruby\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+240218 18:50:04 [Note] Plugin 'FEDERATED' is disabled.
+240218 18:50:04 InnoDB: The InnoDB memory heap is disabled
+240218 18:50:04 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240218 18:50:04 InnoDB: Compressed tables use zlib 1.2.3
+240218 18:50:04 InnoDB: Initializing buffer pool, size = 128.0M
+240218 18:50:04 InnoDB: Completed initialization of buffer pool
+240218 18:50:04 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240218 18:50:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240218 18:50:04  InnoDB: Waiting for the background threads to start
+240218 18:50:05 InnoDB: 1.1.8 started; log sequence number 1715958
+240221 15:43:22 [Note] Plugin 'FEDERATED' is disabled.
+240221 15:43:22 InnoDB: The InnoDB memory heap is disabled
+240221 15:43:22 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240221 15:43:22 InnoDB: Compressed tables use zlib 1.2.3
+240221 15:43:22 InnoDB: Initializing buffer pool, size = 128.0M
+240221 15:43:22 InnoDB: Completed initialization of buffer pool
+240221 15:43:22 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240221 15:43:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240221 15:43:22  InnoDB: Waiting for the background threads to start
+240221 15:43:23 InnoDB: 1.1.8 started; log sequence number 1715968
+240224 18:13:08 [Note] Plugin 'FEDERATED' is disabled.
+240224 18:13:08 InnoDB: The InnoDB memory heap is disabled
+240224 18:13:08 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+240224 18:13:08 InnoDB: Compressed tables use zlib 1.2.3
+240224 18:13:08 InnoDB: Initializing buffer pool, size = 128.0M
+240224 18:13:08 InnoDB: Completed initialization of buffer pool
+240224 18:13:08 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+240224 18:13:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+240224 18:13:08  InnoDB: Waiting for the background threads to start
+240224 18:13:09 InnoDB: 1.1.8 started; log sequence number 1715978

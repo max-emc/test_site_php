@@ -1,0 +1,16 @@
+.ville {
+	background-color: transparent;
+	border: none;
+	cursor: help;
+	color: blue;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 0;
+}
+
+#carte {
+	width: 90%;
+	height: 90%;
+	top: 5%;
+	left: 5%;
+}

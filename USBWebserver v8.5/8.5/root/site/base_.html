@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" type="text/css" href="../../fichiers_externes/fichiers_carte/style_carte.css">
+    <link rel="stylesheet" type="text/css" href="../../fichiers_externes/fichiers_accordeon/style_accordeon.css">
+    <link rel="stylesheet" type="text/css" href="../../fichiers_externes/fichiers_barre_outils/style_barre_outils.css">
+    <link rel="stylesheet" type="text/css" href="../../fichiers_externes/fichiers_bureau/style_bureau.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+
+    <script src="https://kit.fontawesome.com/57736e79f1.js" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+        .bloc-note {
+            width: 200px;
+            height: 300px;
+            position: absolute;
+            background-color: black;
+            box-shadow: 3px 3px 5px grey;
+            left: 230px;
+            transform: translateY(-50%);
+            z-index: 100;
+        }
+
+        .sources {
+            width: 100%;
+            height: 260px;
+            background-color: #FFFAFA;
+            margin-top: 20px;
+            padding-top: 10px;
+            position: absolute;
+            box-shadow: 5px 3px 5px grey;
+        }
+
+        .sources div {
+            width: 100%;
+            font-family: 'Great Vibes', cursive;
+            font-size: 1.5em;
+            padding-left: 12px;
+        }
+
+        .arriere {
+            width: 100%;
+            height: 20px;
+            position: absolute;
+            box-shadow: 1px 1px 12px rgba(255, 255, 255, 0.8) inset,
+                        3px 3px 5px rgba(48, 48, 48, 0.3);
+        }
+        .couverture {
+            width: 100%;
+            height: 280px;
+            margin-top: 20px;
+            background-color: black;
+            position: absolute;
+            transform-origin: top;
+            box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.8) inset;
+        }
+
+        @keyframes ouvrir-bloc-note {
+            0% {
+                transform: rotateX(0);
+            }
+            100% {
+                transform: rotateX(180deg);
+            }
+        }
+
+        @keyframes fermer-bloc-note {
+            0% {
+                transform: rotateX(180deg);
+            }
+            100% {
+                transform: rotateX(0);
+            }
+        }
+
+        @keyframes prendre-bloc-note {
+            0% {
+                transform: translate(0, -50%) rotate(0deg);
+            }
+            100% {
+                transform: translate(320px, 100px) rotate(-5deg);
+            }
+        }
+
+        @keyframes poser-bloc-note {
+            0% {
+                transform: translate(320px, 100px) rotate(-5deg);
+            }
+            100% {
+                transform: translate(0, -50%) rotate(0deg);
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="bloc-note" id="bloc-note">
+        <div class="sources">
+            <div class="source">source 1</div>
+            <div class="source">source 2</div>
+            <div class="source">source 3</div>
+            <div class="source">source 4</div>
+            <div class="source">source 5</div>
+            <div class="source">source 6</div>
+        </div>
+        <div class="arriere"></div>
+        <div class="couverture" id="couverture"></div>
+    </div>
+    <script type="text/javascript">
+        const blocNote = document.getElementById("bloc-note");
+        const couverture = document.getElementById("couverture");
+
+        blocNote.addEventListener("mouseover", function () {
+            blocNote.style.animation = "prendre-bloc-note 2s forwards";
+            couverture.style.animation = "ouvrir-bloc-note 2s forwards";
+        });
+
+        blocNote.addEventListener("mouseout", function () {
+            couverture.style.animation = "fermer-bloc-note 2s forwards";
+            blocNote.style.animation = "poser-bloc-note 2s forwards";
+        });
+
+    </script>
+
+    <div id="presentation"></div>
+    <div id="bloc-post-it"></div>
+    <div class="tasse"></div>
+    
+    <div class="tablette">
+        <div id="carte"></div>
+    </div>
+
+    <script type="text/javascript" src="../../fichiers_externes/fichiers_bureau/script_bureau.js" defer></script>
+    <script type="text/javascript" src="../../fichiers_externes/fichiers_carte/script_carte.js"></script>
+
+    <div id="BarreOutils">
+        <audio src=".././medias/musique.mp3" type="audio/mpeg"></audio>
+    </div>
+    <script type="text/javascript" src="../../fichiers_externes/fichiers_barre_outils/script_barre_outils.js"></script>
+
+    <div class="accordion-container" id="accordion-container"></div>
+    <script type="text/javascript" src="../../fichiers_externes/fichiers_sources/script_sources.js"></script>
+    <script>AjouterSources("")</script> <!-- clé javascript correspondante -->
+    <script type="text/javascript" src="../../fichiers_externes/fichiers_accordeon/script_accordeon.js"></script>
+</body>
+</html>
